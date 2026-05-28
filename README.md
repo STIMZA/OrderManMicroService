@@ -67,6 +67,6 @@ You can alternatively extract the 'OrderManMicroService.postman_collection' file
 <!-- CONTACT -->
 ## 🌟 Contact
 
-`Founder` : Matimu Romeo Ngoveni - matimu.romeo@outlook.com
+`Developer` : Matimu Romeo Ngoveni - matimu.romeo@outlook.com
 
 Project Link: [https://github.com/STIMZA/OrderManMicroService](https://github.com/STIMZA/OrderManMicroService)
