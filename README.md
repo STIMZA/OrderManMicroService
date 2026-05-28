@@ -25,7 +25,8 @@ Below are instructions on how you can install and set up your app.
    ```sh
    java -jar target/OrderManMicroService-0.0.1-SNAPSHOT.jar
    ```
-*Alternatively, you can boot it instantly using the Spring Boot plugin: mvn spring-boot:run*
+   *Alternatively, you can boot it instantly using the Spring Boot plugin: mvn spring-boot:run* <br><br>
+
 4. Access the running application:
 > #### Swagger UI Documentation:
 >
@@ -43,7 +44,7 @@ Below are instructions on how you can install and set up your app.
 >> - Username: user
 >> - Password: {application generated} e.g 'ed29dacc-8bbe-4a45-b599-88e4f6d1b28f'
 
-### Run the Tests
+### 🎨 Run the Tests
 
 Run the business logic unit tests using Maven commands, execute the following command in your terminal.
 
@@ -59,10 +60,12 @@ Run the business logic unit tests using Maven commands, execute the following co
    ```sh
     mvn surefire-report:report
    ```
-*The resulting HTML report will be available inside the target/site/surefire-report.html folder.*
+   *The resulting HTML report will be available inside the target/site/surefire-report.html folder.*
+
+You can alternatively extract the 'OrderManMicroService.postman_collection' file and import it into your postman workspace to run some pre-developed tests.
 
 <!-- CONTACT -->
-## Contact
+## 🌟 Contact
 
 `Founder` : Matimu Romeo Ngoveni - matimu.romeo@outlook.com
 
