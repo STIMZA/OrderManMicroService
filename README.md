@@ -37,6 +37,11 @@ Below are instructions on how you can install and set up your app.
 >
 > - Username: admin
 > - Password: admin123
+>
+>> In some cases the application will default to using the generated user and password. Check the logs on application startup to see if it indicates -> "Using generated security password: ed29dacc-8bbe-4a45-b599-88e4f6d1b28f".
+> 
+>> - Username: user
+>> - Password: {application generated} e.g 'ed29dacc-8bbe-4a45-b599-88e4f6d1b28f'
 
 ### Run the Tests
 
